@@ -1,2 +1,3 @@
 ﻿GIT テスト
 ogn Roo版
+とKBC
